@@ -1,12 +1,9 @@
-## Hi there 👋
-##### - 🏫 Grade: 7th!
+## Hello! 👋
+##### - 😄 Pronouns: she/her
 ##### - 🌎 Location: US
-##### - 🌱 Learning: Stuffs
-##### - 💬 Ask me about in the comments!
-##### - 😄 Pronouns: her/she
-##### - 🌊 Hobbies: music, reading, coding, snacking on snacks 😜, and more I can't think of right now 🤔 
-##### - 🎶 Musical instruments I play: flute and piano 🎹
-##### - 📚 Books I like: Five Kingdoms, Keeper of the Lost Cities, etc 
-##### - 💻 Coding languages I know: ☕️ Java and some HTML 
-##### - 🍰 Favorite food/foods: Doritos, cheesecake, noodles, penne alfredo, prince noodles oodles, dumplings, etc
-##### - 🥳 Fun fact: I am hooman
+##### - 🌱 Learning: jupyter notebooks, physics, calculus, driving 🚙, AWS Cloud, taking C++ course next year
+##### - 🌊 Hobbies: coding, graphic design, music, reading, snacking on snacks, and more I can't think of right now 🤔 
+##### - 🎶 Musical instruments: flute and piano 🎹
+##### - 📚 Books: The Night Circus, The Midnight Library, Pandora Hearts
+##### - 💻 Coding languages: ☕️ Java, python, p5.js & p5play.js, HTML
+##### - 🥳 Fun fact: I have antimetropia, so one eye is slightly farsighted and one is slightly nearsighted 👁️
