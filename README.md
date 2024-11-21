@@ -1,7 +1,7 @@
 ## Hello! 👋
 ##### - 😄 Pronouns: she/her
 ##### - 🌎 Location: US
-##### - 🌱 Learning: jupyter notebooks, physics, calculus, driving 🚙, AWS Cloud, taking C++ course next year
+##### - 🌱 Learning: c++, physics
 ##### - 🌊 Hobbies: coding, graphic design, music, reading, snacking on snacks, and more I can't think of right now 🤔 
 ##### - 🎶 Musical instruments: flute and piano 🎹
 ##### - 📚 Books: The Night Circus, The Midnight Library, Pandora Hearts
